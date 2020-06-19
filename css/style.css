@@ -322,6 +322,16 @@ clear: both;
 }
 
 /* ============================================== Portfolio ================================================================= */
+img .eezys{
+  background: url("img/eezys.jpg");
+}
+img .SAAPARTS{
+  background: url("img/SAAPARTS.jpg");
+}
+img .weather{
+  background: url("img/weather.jpg");
+}
+
 ul#filterOptions{
 margin: 0;
 padding: 40px 0 0 0;
